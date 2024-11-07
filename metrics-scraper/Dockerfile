@@ -1,1 +1,1 @@
-FORM kubernetesui/metrics-scraper:v1.0.4
+FROM kubernetesui/metrics-scraper:v1.0.4
